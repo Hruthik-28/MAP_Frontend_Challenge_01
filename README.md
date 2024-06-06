@@ -1,6 +1,4 @@
-# My React and Tailwind CSS Project
-
-Welcome to My React and Tailwind CSS Project! This project is a React application styled with Tailwind CSS. It includes a horizontal scrollable list of card components, each maintaining a portrait orientation.
+# MAP_Frontend_Challenge_01 ([live](https://book-it-pi.vercel.app/))
 
 ## Table of Contents
 
