@@ -15,6 +15,10 @@
 | Live Demo | [live](https://book-it-pi.vercel.app/) |
 | VideoDemo | [live](https://youtu.be/Fkq4UGvuYhs)   |
 
+## Tech Stack used
+- React 19
+- TailwindCSS
+
 ## Installation
 
 To get started with this project, follow the steps below:
