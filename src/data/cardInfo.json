@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "image": "/src/assets/SamplePic01.jpg",
+        "title": "Attack on Titan",
+        "description": "Humanity's fight for survival against terrifying giants.",
+        "rating": 9.0,
+        "likes": 2500,
+        "tag": "Trending",
+        "releaseDate": "2013-04-06"
+    },
+    {
+        "id": 2,
+        "image": "/src/assets/SamplePic02.jpg",
+        "title": "Naruto Shippuden",
+        "description": "The journey of Naruto Uzumaki to become the strongest ninja.",
+        "rating": 8.5,
+        "likes": 3000,
+        "tag": "",
+        "releaseDate": "2007-02-15"
+    },
+    {
+        "id": 3,
+        "image": "/src/assets/SamplePic03.jpg",
+        "title": "One Piece",
+        "description": "Monkey D. Luffy's quest to become the Pirate King.",
+        "rating": 9.1,
+        "likes": 3500,
+        "tag": "",
+        "releaseDate": "1999-10-20"
+    },
+    {
+        "id": 4,
+        "image": "/src/assets/SamplePic04.jpg",
+        "title": "My Hero Academia",
+        "description": "Izuku Midoriya's journey to become a professional hero.",
+        "rating": 8.4,
+        "likes": 2200,
+        "tag": "New",
+        "releaseDate": "2016-04-03"
+    },
+    {
+        "id": 5,
+        "image": "/src/assets/SamplePic05.jpg",
+        "title": "Demon Slayer",
+        "description": "Tanjiro Kamado's quest to avenge his family and cure his sister.",
+        "rating": 9.0,
+        "likes": 2800,
+        "tag": "",
+        "releaseDate": "2019-04-06"
+    },
+    {
+        "id": 6,
+        "image": "/src/assets/SamplePic06.jpg",
+        "title": "Sword Art Online",
+        "description": "Players trapped in a virtual reality MMORPG fight to survive.",
+        "rating": 7.6,
+        "likes": 1800,
+        "tag": "New",
+        "releaseDate": "2012-07-08"
+    },
+    {
+        "id": 7,
+        "image": "/src/assets/SamplePic07.jpg",
+        "title": "Tokyo Ghoul",
+        "description": "Kaneki Ken's transformation into a half-ghoul and his struggles.",
+        "rating": 8.0,
+        "likes": 2100,
+        "tag": "",
+        "releaseDate": "2014-07-04"
+    },
+    {
+        "id": 8,
+        "image": "/src/assets/SamplePic08.jpg",
+        "title": "FMA: Brotherhood",
+        "description": "Two brothers' search for the Philosopher's Stone to restore their bodies.",
+        "rating": 9.2,
+        "likes": 3300,
+        "tag": "Trending",
+        "releaseDate": "2009-04-05"
+    },
+    {
+        "id": 9,
+        "image": "/src/assets/SamplePic09.jpg",
+        "title": "Death Note",
+        "description": "Light Yagami's use of a deadly notebook to cleanse the world of criminals.",
+        "rating": 9.0,
+        "likes": 2900,
+        "tag": "",
+        "releaseDate": "2006-10-04"
+    },
+    {
+        "id": 10,
+        "image": "/src/assets/SamplePic10.jpg",
+        "title": "Hunter x Hunter",
+        "description": "Gon Freecss' journey to become a Hunter and find his father.",
+        "rating": 9.1,
+        "likes": 3100,
+        "tag": "New",
+        "releaseDate": "2011-10-02"
+    },
+    {
+        "id": 11,
+        "image": "/src/assets/SamplePic11.jpg",
+        "title": "Black Clover",
+        "description": "Asta's quest to become the Wizard King in a world where magic is everything.",
+        "rating": 8.3,
+        "likes": 2000,
+        "tag": "Trending",
+        "releaseDate": "2017-10-03"
+    },
+    {
+        "id": 12,
+        "image": "/src/assets/SamplePic12.jpg",
+        "title": "Re:Zero",
+        "description": "Subaru Natsuki's struggle to survive and save his friends in a fantasy world.",
+        "rating": 8.7,
+        "likes": 2400,
+        "tag": "New",
+        "releaseDate": "2016-04-04"
+    },
+    {
+        "id": 13,
+        "image": "/src/assets/SamplePic13.jpg",
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki's battle against evil spirits and his duties as a Soul Reaper.",
+        "rating": 8.1,
+        "likes": 2200,
+        "tag": "",
+        "releaseDate": "2004-10-05"
+    },
+    {
+        "id": 14,
+        "image": "/src/assets/SamplePic14.jpg",
+        "title": "Fairy Tail",
+        "description": "The adventures of Natsu Dragneel and his friends in the Fairy Tail guild.",
+        "rating": 7.9,
+        "likes": 2100,
+        "tag": "Trending",
+        "releaseDate": "2009-10-12"
+    },
+    {
+        "id": 15,
+        "image": "/src/assets/SamplePic15.jpg",
+        "title": "Steins;Gate",
+        "description": "Rintarou Okabe's discovery of time travel and its consequences.",
+        "rating": 9.1,
+        "likes": 3000,
+        "tag": "",
+        "releaseDate": "2011-04-06"
+    },
+    {
+        "id": 16,
+        "image": "/src/assets/SamplePic16.jpg",
+        "title": "Code Geass",
+        "description": "Lelouch vi Britannia's rebellion against the Holy Britannian Empire.",
+        "rating": 8.9,
+        "likes": 2800,
+        "tag": "New",
+        "releaseDate": "2006-10-05"
+    },
+    {
+        "id": 17,
+        "image": "/src/assets/SamplePic17.jpg",
+        "title": "The 7 Deadly Sins",
+        "description": "The adventures of a group of knights seeking to clear their names.",
+        "rating": 8.0,
+        "likes": 2300,
+        "tag": "",
+        "releaseDate": "2014-10-05"
+    },
+    {
+        "id": 18,
+        "image": "/src/assets/SamplePic18.jpg",
+        "title": "Dr. Stone",
+        "description": "Senku Ishigami's efforts to rebuild civilization after a mysterious petrification.",
+        "rating": 8.2,
+        "likes": 2500,
+        "tag": "Trending",
+        "releaseDate": "2019-07-05"
+    },
+    {
+        "id": 19,
+        "image": "/src/assets/SamplePic19.jpg",
+        "title": "Your Lie in April",
+        "description": "A young pianist's return to music with the help of a spirited violinist.",
+        "rating": 8.6,
+        "likes": 2700,
+        "tag": "",
+        "releaseDate": "2014-10-10"
+    },
+    {
+        "id": 20,
+        "image": "/src/assets/SamplePic20.jpg",
+        "title": "One Punch Man",
+        "description": "Saitama's quest for a worthy opponent as a hero who defeats enemies with a single punch.",
+        "rating": 8.8,
+        "likes": 2900,
+        "tag": "New",
+        "releaseDate": "2015-10-04"
+    }
+]
