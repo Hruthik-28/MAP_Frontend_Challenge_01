@@ -1,12 +1,19 @@
-# MAP_Frontend_Challenge_01 ([live](https://book-it-pi.vercel.app/))
+# MAP_Frontend_Challenge_01 ()
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [License](#license)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Features](#features)
+-   [Screenshots](#screenshots)
+-   [License](#license)
+
+## Important Links
+
+| Content   | Links                                  |
+| --------- | -------------------------------------- |
+| Live Demo | [live](https://book-it-pi.vercel.app/) |
+| VideoDemo | [live](https://youtu.be/Fkq4UGvuYhs)   |
 
 ## Installation
 
@@ -39,11 +46,11 @@ After following the installation steps, you can start using the project. The app
 
 ## Features
 
-- Horizontal scrollable list of cards
-- Responsive design with Tailwind CSS
-- Smooth transitions and hover effects
-- Customizable card components
-- Loading skeleton for better user experience
+-   Horizontal scrollable list of cards
+-   Responsive design with Tailwind CSS
+-   Smooth transitions and hover effects
+-   Customizable card components
+-   Loading skeleton for better user experience
 
 ## Screenshots
 
@@ -55,7 +62,8 @@ After following the installation steps, you can start using the project. The app
 
 ![Card Component](./public/screenshots/screenshot2.png)
 
-### Hovered Card 
+### Hovered Card
+
 ![Card Component](./public/screenshots/screenshot3.png)
 
 ### Horizontal View and Scroll
@@ -63,8 +71,8 @@ After following the installation steps, you can start using the project. The app
 ![Card Component](./public/screenshots/screenshot4.png)
 
 ### Grid View
-![Card Component](./public/screenshots/screenshot5.png)
 
+![Card Component](./public/screenshots/screenshot5.png)
 
 ## License
 
